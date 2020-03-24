@@ -1,0 +1,67 @@
+@charset "utf-8";
+img#header2background{
+	position: relative;
+	top: 97px;
+	width: 109%;
+	float: right;
+	right: -8px;
+}
+img#mainHeader{
+	position: absolute;
+	width: 100%;
+	padding: 0px;
+	margin: -8px;
+	direction: rtl;
+	float: right;
+	top: 1%;
+}
+ul{
+	list-style: none;
+	overflow: hidden;
+	position: relative;
+	top: 55px;
+	right: -8px;
+}
+li {
+	float: right;
+}
+li#meetingManger{
+	font-family: Tahoma
+}
+li a{
+	text-align: center;
+	padding-right: 6px;
+	padding-left: 6px;
+	padding-top: 20px;
+	padding-bottom: 12px;
+	text-decoration: none;
+	display: inline;
+}
+li a:hover{
+	background-color: azure;
+}
+p#time{
+	position: relative;
+	left: 20px;
+	top: 20px;
+	float: left;
+	font-family: "B Titr";
+	font-size: 20px;
+}
+p#titleOfWorks{
+	font-family: Tahoma;
+	position: relative;
+	top: 40PX;
+	direction: rtl;
+	border: 1px solid gray;
+	width: 400px;
+	height: 400px;
+	float: right;
+	padding-right: 6px;
+}
+ul#listOfWorks{
+	font-family: Tahoma;
+	position: relative;
+	top: 85px;
+	right: -370px;
+}

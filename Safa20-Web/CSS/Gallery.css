@@ -1,0 +1,61 @@
+#as {
+    width: 100%;
+    height: auto;
+    margin: 0;
+}
+
+#ae {
+    width: 100%;
+    height: 32px;
+    background-color: darkgoldenrod;
+    float: left;
+    margin: 0%;
+}
+
+li {
+    float: right;
+    padding: 0px;
+}
+
+ul {
+    float: right;
+    list-style-type: none;
+}
+
+#we {
+    background-color:;
+    height: 355px;
+    width: 300px;
+}
+
+#aq {
+    width: 355px;
+    height: 555px;
+    background-color: white;
+    float: right;
+    border: 1.8px solid gray;
+}
+
+#fa {
+    width: 1099px;
+    height: 555px;
+    float: left;
+    background-color: white;
+    border: 1.8px solid gray;
+}
+
+#xc {
+    float: right;
+}
+
+#j {
+    display: block;
+    width: 1000px;
+    height: 550px;
+    float: initial;
+    margin: 4px 46px;
+}
+
+#rt {
+    float: right;
+}

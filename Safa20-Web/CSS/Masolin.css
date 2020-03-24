@@ -28,7 +28,7 @@ li {
 li#meetingManger{
 	font-family: Tahoma
 }
-li a{
+div#headerText a{
 	text-align: center;
 	padding-right: 6px;
 	padding-left: 6px;
@@ -43,7 +43,7 @@ li a:hover{
 p#time{
 	position: relative;
 	left: 20px;
-	top: 20px;
+	top: -22px;
 	float: left;
 	font-family: "B Titr";
 	font-size: 20px;
@@ -64,4 +64,6 @@ ul#listOfWorks{
 	position: relative;
 	top: 85px;
 	right: -370px;
+	text-decoration: none;
+}#btn {
 }
